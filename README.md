@@ -1,3 +1,6 @@
+![All - Copy](https://user-images.githubusercontent.com/72382686/230849853-c1d16d78-8a17-4c89-b40b-b6cc3e8ed3cd.png)
+
+
  A modding tool for Spotify .
 
 Features :
@@ -23,5 +26,6 @@ xndrip@proton.me
 
 
 
-![image](https://user-images.githubusercontent.com/72382686/230848950-05fdad16-8fb7-4258-9f3d-38aa5f6db1d5.png)
+![All - Copy](https://user-images.githubusercontent.com/72382686/230849863-4c45ba9e-e3f7-405b-88e9-0afb1baa9dd3.png)
+
 
