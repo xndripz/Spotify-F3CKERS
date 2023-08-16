@@ -12,21 +12,6 @@ Features :
 ![image](https://user-images.githubusercontent.com/72382686/230971850-b4081208-a7bb-4273-a72c-875ca27dd3b3.png)
 
 
-                     
-💰 Donate 💰
-
-MetaMask 0x330c6bD5bFD2F39EC99adbB8A8234D3bb9D19951 
-
-
-
-
-
-📞 Contact 📞
-
-xndrip@proton.me
-
-
-
 ![All - Copy](https://user-images.githubusercontent.com/72382686/230849863-4c45ba9e-e3f7-405b-88e9-0afb1baa9dd3.png)
 
 
